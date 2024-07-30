@@ -25,11 +25,6 @@
   </a>
 </p>
   
-  ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmet-emin-kazan-727a28257%2F)
-  ![Static Badge](https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=Medium&link=https%3A%2F%2Fmedium.com%2F%40ahmeteminka)
-![Static Badge](https://img.shields.io/badge/Github-green?style=for-the-badge&logo=Github&link=https%3A%2F%2Fgithub.com%2FAhmetkazann)
-![Static Badge](https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=Upwork&link=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~01bd7e30cb71cb6612)
-![Static Badge](https://img.shields.io/badge/Kaggle-yellow?style=for-the-badge&logo=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fahmetkazann)
 
 
   
@@ -37,23 +32,36 @@
 <p align="center" style="font-size: 24px;">
   Skills
 </p>
-  ![Static Badge](https://img.shields.io/badge/Open--cv-yellow?style=for-the-badge&logo=Opencv)
 
-  ![Static Badge](https://img.shields.io/badge/Carla--sim-black?style=for-the-badge&logo=tesla)
-
-  ![Static Badge](https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=TensorFlow)
-
-  ![Static Badge](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras)
-
-  ![Static Badge](https://img.shields.io/badge/Pytorch-green?style=for-the-badge&logo=Pytorch)
-
-  ![Static Badge](https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge&logo=Scikit-Learn)
-
-  ![Static Badge](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=mysql)
-
-  ![Static Badge](https://img.shields.io/badge/QT-black?style=for-the-badge&logo=QT)
-
-  ![Static Badge](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT)
+<p align="center">
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/Open--cv-yellow?style=for-the-badge&logo=Opencv" alt="OpenCV">
+  </a>
+  <a href="https://carla.org/">
+    <img src="https://img.shields.io/badge/Carla--sim-black?style=for-the-badge&logo=tesla" alt="Carla">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=TensorFlow" alt="TensorFlow">
+  </a>
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras" alt="Keras">
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/Pytorch-green?style=for-the-badge&logo=Pytorch" alt="Pytorch">
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge&logo=Scikit-Learn" alt="Scikit-Learn">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=mysql" alt="SQL">
+  </a>
+  <a href="https://www.qt.io/">
+    <img src="https://img.shields.io/badge/QT-black?style=for-the-badge&logo=QT" alt="QT">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT" alt="GIT">
+  </a>
+</p>
 
   <p align="center" style="font-size: 24px;">
   Programming Languages
