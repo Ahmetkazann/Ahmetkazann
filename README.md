@@ -6,6 +6,25 @@
 - 📫 How to reach me: ahmeteminka@gmail.com
 -->
   Personal Sites
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/ahmet-emin-kazan-727a28257/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@ahmeteminka">
+    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=Medium" alt="Medium">
+  </a>
+  <a href="https://github.com/Ahmetkazann">
+    <img src="https://img.shields.io/badge/Github-green?style=for-the-badge&logo=Github" alt="Github">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01bd7e30cb71cb6612">
+    <img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=Upwork" alt="Upwork">
+  </a>
+  <a href="https://www.kaggle.com/ahmetkazann">
+    <img src="https://img.shields.io/badge/Kaggle-yellow?style=for-the-badge&logo=Kaggle" alt="Kaggle">
+  </a>
+</p>
+  
   ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmet-emin-kazan-727a28257%2F)
   ![Static Badge](https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=Medium&link=https%3A%2F%2Fmedium.com%2F%40ahmeteminka)
 ![Static Badge](https://img.shields.io/badge/Github-green?style=for-the-badge&logo=Github&link=https%3A%2F%2Fgithub.com%2FAhmetkazann)
