@@ -6,7 +6,9 @@
 - 📫 How to reach me: ahmeteminka@gmail.com
 -->
 
-  Personal Sites
+<p align="center" style="font-size: 24px;">
+  Perosonal Sites
+</p>
 
   <p align="center">
   <a href="https://www.linkedin.com/in/ahmet-emin-kazan-727a28257/">
