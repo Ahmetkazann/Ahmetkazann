@@ -7,14 +7,10 @@
 -->
   Personal Sites
   ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmet-emin-kazan-727a28257%2F)
-  
   ![Static Badge](https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=Medium&link=https%3A%2F%2Fmedium.com%2F%40ahmeteminka)
-
-  ![Static Badge](https://img.shields.io/badge/Github-green?style=for-the-badge&logo=Github&link=https%3A%2F%2Fgithub.com%2FAhmetkazann)
-
-  ![Static Badge](https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=Upwork&link=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~01bd7e30cb71cb6612)
-
-  ![Static Badge](https://img.shields.io/badge/Kaggle-yellow?style=for-the-badge&logo=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fahmetkazann)
+![Static Badge](https://img.shields.io/badge/Github-green?style=for-the-badge&logo=Github&link=https%3A%2F%2Fgithub.com%2FAhmetkazann)
+![Static Badge](https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=Upwork&link=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~01bd7e30cb71cb6612)
+![Static Badge](https://img.shields.io/badge/Kaggle-yellow?style=for-the-badge&logo=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fahmetkazann)
 
 
   
