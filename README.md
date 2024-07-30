@@ -63,14 +63,21 @@
   </a>
 </p>
 
-  <p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 24px;">
   Programming Languages
 </p>
-  ![Static Badge](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=Python)
-  
-  ![Static Badge](https://img.shields.io/badge/C%2CC%2B%2B-black?style=for-the-badge&logo=C)
 
-  ![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=JavaScript)
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=Python" alt="Python">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://img.shields.io/badge/C%2CC%2B%2B-black?style=for-the-badge&logo=C" alt="C/C++">
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java" alt="Java">
+  </a>
+</p>
 
 
 
